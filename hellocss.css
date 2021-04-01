@@ -1,0 +1,47 @@
+body {
+    background-color: lightpink; 
+ }
+
+ .middle {
+     margin-left: 10%;
+     margin-right: 10%; 
+     padding-bottom: 1%;
+     background-color: #fde3f0;
+     
+ }
+
+ .center {
+     text-align: center;
+     margin-top: 30px;
+     margin-bottom: 30px;
+     font-size: 30px;
+     color: #8b46a0;
+ }
+ 
+ .card {
+     margin-left: 5%;
+     margin-right: 5%;
+     margin-bottom: 50px;
+     padding-left: 5%;
+     padding-right: 5%;
+     padding-top: 2.5%;
+     padding-bottom: 2.5%;
+     border-radius: 25px;
+     background-color: cornsilk;
+     border-color: darksalmon; 
+ }
+
+ 
+
+ .hodumaru {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 50px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    border-radius: 25px;
+    background-color: cornsilk;
+    border-color: darksalmon;  
+ }
